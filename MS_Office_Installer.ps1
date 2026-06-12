@@ -3,7 +3,7 @@ Add-Type -AssemblyName System.Drawing
 [System.Windows.Forms.Application]::EnableVisualStyles()
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Office Deployment Manager"
+$form.Text = "S Prabhanjan Kumar - Office Deployment Manager"
 $form.Size = New-Object System.Drawing.Size(780, 680)
 $form.StartPosition = "CenterScreen"
 $form.FormBorderStyle = "FixedDialog"
